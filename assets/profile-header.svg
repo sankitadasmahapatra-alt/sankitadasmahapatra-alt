@@ -1,0 +1,78 @@
+<svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Sankita Das Mahapatra — GitHub Profile</title>
+  <desc id="desc">Information Technology student interested in software, web, and app development.</desc>
+
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1280" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#050816"/>
+      <stop offset="0.52" stop-color="#0B1735"/>
+      <stop offset="1" stop-color="#160B35"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="74" y1="94" x2="705" y2="265" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+    <radialGradient id="glowCyan" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1080 50) rotate(133) scale(330 330)">
+      <stop stop-color="#06B6D4" stop-opacity="0.28"/>
+      <stop offset="1" stop-color="#06B6D4" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowViolet" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(240 370) rotate(-50) scale(340 410)">
+      <stop stop-color="#8B5CF6" stop-opacity="0.23"/>
+      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#94A3B8" stroke-opacity="0.055"/>
+    </pattern>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="18" stdDeviation="20" flood-color="#000814" flood-opacity="0.45"/>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="360" rx="28" fill="url(#background)"/>
+  <rect width="1280" height="360" rx="28" fill="url(#glowCyan)"/>
+  <rect width="1280" height="360" rx="28" fill="url(#glowViolet)"/>
+  <rect width="1280" height="360" rx="28" fill="url(#grid)"/>
+  <rect x="1" y="1" width="1278" height="358" rx="27" stroke="#67E8F9" stroke-opacity="0.18" stroke-width="2"/>
+
+  <g opacity="0.62">
+    <path d="M0 300C120 265 194 327 312 290C427 254 492 196 626 224" stroke="url(#accent)" stroke-width="2"/>
+    <path d="M0 319C124 284 205 344 321 309C441 273 503 216 643 242" stroke="url(#accent)" stroke-opacity="0.25"/>
+    <circle cx="312" cy="290" r="4" fill="#67E8F9"/>
+    <circle cx="626" cy="224" r="4" fill="#A78BFA"/>
+  </g>
+
+  <g font-family="Inter, Segoe UI, Arial, sans-serif">
+    <rect x="70" y="65" width="154" height="34" rx="17" fill="#0E7490" fill-opacity="0.18" stroke="#22D3EE" stroke-opacity="0.46"/>
+    <circle cx="91" cy="82" r="5" fill="#22D3EE"/>
+    <text x="106" y="88" fill="#A5F3FC" font-size="15" font-weight="700" letter-spacing="1.3">HELLO, WORLD!</text>
+
+    <text x="70" y="167" fill="#F8FAFC" font-size="51" font-weight="800" letter-spacing="-1.5">Sankita Das Mahapatra</text>
+    <rect x="70" y="190" width="560" height="4" rx="2" fill="url(#accent)"/>
+    <text x="70" y="236" fill="#CBD5E1" font-size="25" font-weight="600">Information Technology Student</text>
+    <text x="70" y="278" fill="#94A3B8" font-size="20">Software Development  •  Web Development  •  App Development</text>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="780" y="55" width="430" height="250" rx="18" fill="#030712" fill-opacity="0.82" stroke="#475569" stroke-opacity="0.52"/>
+    <path d="M780 101H1210" stroke="#334155"/>
+    <circle cx="809" cy="78" r="7" fill="#FB7185"/>
+    <circle cx="834" cy="78" r="7" fill="#FBBF24"/>
+    <circle cx="859" cy="78" r="7" fill="#4ADE80"/>
+    <text x="995" y="84" text-anchor="middle" fill="#64748B" font-size="14" font-family="ui-monospace, SFMono-Regular, Consolas, monospace">profile.js</text>
+
+    <g font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="17">
+      <text x="809" y="137" fill="#C084FC">const <tspan fill="#F8FAFC">student</tspan> <tspan fill="#64748B">=</tspan> <tspan fill="#FBBF24">{</tspan></text>
+      <text x="833" y="172" fill="#67E8F9">degree<tspan fill="#64748B">:</tspan> <tspan fill="#86EFAC" font-size="14">"B.Tech in Information Technology"</tspan><tspan fill="#64748B">,</tspan></text>
+      <text x="833" y="207" fill="#67E8F9">college<tspan fill="#64748B">:</tspan> <tspan fill="#86EFAC" font-size="14">"Haldia Institute of Technology"</tspan><tspan fill="#64748B">,</tspan></text>
+      <text x="833" y="242" fill="#67E8F9">status<tspan fill="#64748B">:</tspan> <tspan fill="#86EFAC">"Learning"</tspan></text>
+      <text x="809" y="277" fill="#FBBF24">};</text>
+    </g>
+  </g>
+
+  <g fill="#67E8F9" fill-opacity="0.6">
+    <circle cx="750" cy="70" r="2"/>
+    <circle cx="770" cy="288" r="3"/>
+    <circle cx="1195" cy="327" r="2"/>
+    <circle cx="675" cy="324" r="2"/>
+  </g>
+</svg>
