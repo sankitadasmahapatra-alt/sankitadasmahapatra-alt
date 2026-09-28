@@ -1,6 +1,6 @@
 <svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">Sankita Das Mahapatra — GitHub Profile</title>
-  <desc id="desc">Information Technology student interested in software, web, and app development.</desc>
+  <desc id="desc">B.Tech second-year student at Haldia Institute of Technology.</desc>
 
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1280" y2="360" gradientUnits="userSpaceOnUse">
@@ -48,8 +48,8 @@
 
     <text x="70" y="167" fill="#F8FAFC" font-size="51" font-weight="800" letter-spacing="-1.5">Sankita Das Mahapatra</text>
     <rect x="70" y="190" width="560" height="4" rx="2" fill="url(#accent)"/>
-    <text x="70" y="236" fill="#CBD5E1" font-size="25" font-weight="600">Information Technology Student</text>
-    <text x="70" y="278" fill="#94A3B8" font-size="20">Software Development  •  Web Development  •  App Development</text>
+    <text x="70" y="236" fill="#CBD5E1" font-size="25" font-weight="600">B.Tech  •  2nd Year Student</text>
+    <text x="70" y="278" fill="#94A3B8" font-size="20">Haldia Institute of Technology</text>
   </g>
 
   <g filter="url(#shadow)">
@@ -62,9 +62,9 @@
 
     <g font-family="ui-monospace, SFMono-Regular, Consolas, monospace" font-size="17">
       <text x="809" y="137" fill="#C084FC">const <tspan fill="#F8FAFC">student</tspan> <tspan fill="#64748B">=</tspan> <tspan fill="#FBBF24">{</tspan></text>
-      <text x="833" y="172" fill="#67E8F9">degree<tspan fill="#64748B">:</tspan> <tspan fill="#86EFAC" font-size="14">"B.Tech in Information Technology"</tspan><tspan fill="#64748B">,</tspan></text>
-      <text x="833" y="207" fill="#67E8F9">college<tspan fill="#64748B">:</tspan> <tspan fill="#86EFAC" font-size="14">"Haldia Institute of Technology"</tspan><tspan fill="#64748B">,</tspan></text>
-      <text x="833" y="242" fill="#67E8F9">status<tspan fill="#64748B">:</tspan> <tspan fill="#86EFAC">"Learning"</tspan></text>
+      <text x="833" y="172" fill="#67E8F9">course<tspan fill="#64748B">:</tspan> <tspan fill="#86EFAC">"B.Tech"</tspan><tspan fill="#64748B">,</tspan></text>
+      <text x="833" y="207" fill="#67E8F9">year<tspan fill="#64748B">:</tspan> <tspan fill="#86EFAC">"2nd"</tspan><tspan fill="#64748B">,</tspan></text>
+      <text x="833" y="242" fill="#67E8F9">skills<tspan fill="#64748B">:</tspan> <tspan fill="#86EFAC" font-size="13">["HTML", "CSS", "JS", "Java", "Python"]</tspan></text>
       <text x="809" y="277" fill="#FBBF24">};</text>
     </g>
   </g>
